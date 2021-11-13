@@ -1,0 +1,17 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\Mp3 Zing 4.0\bin\Debug\Mp3 Zing 4.0.exe.config
+E:\Mp3 Zing 4.0\Mp3 Zing 4.0\bin\Debug\Mp3 Zing 4.0.exe.config
+E:\Mp3 Zing 4.0\Mp3 Zing 4.0\bin\Debug\Mp3 Zing 4.0.exe
+E:\Mp3 Zing 4.0\Mp3 Zing 4.0\bin\Debug\Mp3 Zing 4.0.pdb
+E:\Mp3 Zing 4.0\Mp3 Zing 4.0\bin\Debug\Mp3 Zing 4.0.xml
+E:\Mp3 Zing 4.0\Mp3 Zing 4.0\obj\Debug\Mp3_Zing_4._0.home.resources
+E:\Mp3 Zing 4.0\Mp3 Zing 4.0\obj\Debug\Mp3_Zing_4._0.Resources.resources
+E:\Mp3 Zing 4.0\Mp3 Zing 4.0\obj\Debug\Mp3 Zing 4.0.vbproj.GenerateResource.Cache
+E:\Mp3 Zing 4.0\Mp3 Zing 4.0\obj\Debug\Mp3 Zing 4.0.exe
+E:\Mp3 Zing 4.0\Mp3 Zing 4.0\obj\Debug\Mp3 Zing 4.0.xml
+E:\Mp3 Zing 4.0\Mp3 Zing 4.0\obj\Debug\Mp3 Zing 4.0.pdb
+E:\Mp3 Zing 4.0\Mp3 Zing 4.0\obj\Debug\Mp3_Zing_4._0.Form2.resources
+E:\Mp3 Zing 4.0\Mp3 Zing 4.0\bin\Debug\Interop.WMPLib.dll
+E:\Mp3 Zing 4.0\Mp3 Zing 4.0\bin\Debug\AxInterop.WMPLib.dll
+E:\Mp3 Zing 4.0\Mp3 Zing 4.0\obj\Debug\Interop.WMPLib.dll
+E:\Mp3 Zing 4.0\Mp3 Zing 4.0\obj\Debug\AxInterop.WMPLib.dll
+E:\Mp3 Zing 4.0\Mp3 Zing 4.0\obj\Debug\Mp3 Zing 4.0.vbproj.ResolveComReference.cache
